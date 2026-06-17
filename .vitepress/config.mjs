@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "PexMax - 拼图满绩",
+  title: "PezMax - 拼图满绩",
   description: "优雅、强大的学习资料库 - 官方下载",
   
   // 优化文档的路由，使其更干净 (移除 .html)
