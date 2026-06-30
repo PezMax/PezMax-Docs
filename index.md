@@ -17,7 +17,7 @@ hero:
       link: https://github.com/PezMax/PezMax-Desktop/releases/download/publish/PezMax-1.0.0-arm64.dmg
     - theme: brand
       text: ⊞ 下载 Windows 版 (x64)
-      link: https://gh-proxy.com/https://github.com/PezMax/PezMax-Desktop/releases/v1.2.1/download/PezMax-1.2.1-setup.exe
+      link: https://gh-proxy.com/https://github.com/PezMax/PezMax-Desktop/releases/download/v1.2.1/PezMax-1.2.1-setup.exe
     - theme: alt
       text: 查看更新日志
       link: /changelog
